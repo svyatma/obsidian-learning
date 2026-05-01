@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /*.html$
+
+Sitemap: https://obsidian-learning.ru/sitemap.xml
+Host: obsidian-learning.ru
+Crawl-delay: 2
