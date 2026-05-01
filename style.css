@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Magistral';
-  src: url('/font/Magistral-Bold.ttf') format('woff2');
+  src: url('font/Magistral-Bold.ttf') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: 'Mulish';
-  src: url('/font/Mulish-Light.ttf') format('woff2');
+  src: url('font/Mulish-Light.ttf') format('woff2');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -18,7 +18,7 @@
 
 @font-face {
   font-family: 'Mulish';
-  src: url('/font/Mulish-Regular.ttf') format('woff2');
+  src: url('font/Mulish-Regular.ttf') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -26,7 +26,7 @@
 
 @font-face {
   font-family: 'Mulish';
-  src: url('/font/Mulish-Medium.ttf') format('woff2');
+  src: url('font/Mulish-Medium.ttf') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -34,7 +34,7 @@
 
 @font-face {
   font-family: 'Mulish';
-  src: url('/font/Mulish-SemiBold.ttf') format('woff2');
+  src: url('font/Mulish-SemiBold.ttf') format('woff2');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -42,7 +42,7 @@
 
 @font-face {
   font-family: 'Mulish';
-  src: url('/font/Mulish-Bold.ttf') format('woff2');
+  src: url('font/Mulish-Bold.ttf') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -50,7 +50,7 @@
 
 @font-face {
   font-family: 'Mulish';
-  src: url('/font/Mulish-ExtraBold.ttf') format('woff2');
+  src: url('font/Mulish-ExtraBold.ttf') format('woff2');
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -58,7 +58,7 @@
 
 @font-face {
   font-family: 'Fira Code';
-  src: url('/font/FiraCode-Regular.ttf') format('woff2');
+  src: url('font/FiraCode-Regular.ttf') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -66,7 +66,7 @@
 
 @font-face {
   font-family: 'Fira Code';
-  src: url('/font/FiraCode-Light.ttf') format('woff2');
+  src: url('font/FiraCode-Light.ttf') format('woff2');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
